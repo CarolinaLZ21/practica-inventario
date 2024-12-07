@@ -1,0 +1,2 @@
+ID: 2, Nombre: ccc, Categoría: ccc, Precio: 345,00, Cantidad: 3, Valor: 1035,00
+Valor total del inventario: 1035.0
